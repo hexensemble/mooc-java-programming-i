@@ -25,6 +25,8 @@ replay_pid*
 
 # TMC and Maven files
 .tmcproject.yml
+.tmcproject.json
+.checkstyle.xml
 test/
 pom.xml
 target/
