@@ -4,5 +4,5 @@ Completed exercises for the University of Helsinki’s massive open online cours
 
 Certificate awarded in October 2024.
 
-Solutions to Course II can be found here:
+**Solutions to Course II can be found here:**
 https://github.com/hexensemble/mooc-java-programming-ii
